@@ -4,7 +4,8 @@ ul {
     padding: 0px;
 }
 
-li, h3 {
+li,
+h3 {
     list-style: none;
 }
 
@@ -152,12 +153,14 @@ input,
     display: none;
 }
 
-.list-item_edit .task__input {
+.list-item_edit
+.task__input {
     display: inline-block;
     width: 224px;
 }
 
-.list-item_edit .task__title {
+.list-item_edit
+.task__title {
     display: none;
 }
 
